@@ -1,0 +1,10 @@
+^E:\C++\LIBPNG-LIBPNG16\BUILD\M64\CMAKEFILES\4A19E64433510B51FF0CD93FED36ADA0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SE:/c++/libpng-libpng16 -BE:/c++/libpng-libpng16/build/m64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/c++/libpng-libpng16/build/m64/libpng.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

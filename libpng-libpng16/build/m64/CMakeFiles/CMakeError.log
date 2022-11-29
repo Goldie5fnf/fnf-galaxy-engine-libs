@@ -1,0 +1,83 @@
+Checking whether the ASM compiler is GNU using "--version" did not match "(GNU assembler)|(GCC)|(Free Software Foundation)":
+Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.34.31933 для x64
+(C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+
+cl: командная строка warning D9002: пропуск неизвестного параметра "--version"
+cl: командная строка error D8003: отсутствие исходного имени файла
+Checking whether the ASM compiler is Clang using "--version" did not match "(clang version)":
+Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.34.31933 для x64
+(C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+
+cl: командная строка warning D9002: пропуск неизвестного параметра "--version"
+cl: командная строка error D8003: отсутствие исходного имени файла
+Checking whether the ASM compiler is AppleClang using "--version" did not match "(Apple LLVM version)":
+Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.34.31933 для x64
+(C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+
+cl: командная строка warning D9002: пропуск неизвестного параметра "--version"
+cl: командная строка error D8003: отсутствие исходного имени файла
+Checking whether the ASM compiler is ARMClang using "--version" did not match "armclang":
+Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.34.31933 для x64
+(C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+
+cl: командная строка warning D9002: пропуск неизвестного параметра "--version"
+cl: командная строка error D8003: отсутствие исходного имени файла
+Checking whether the ASM compiler is HP using "-V" did not match "HP C":
+Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.34.31933 для x64
+(C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+
+cl: командная строка error D8004: для "/V" требуется аргумент
+Checking whether the ASM compiler is Intel using "--version" did not match "(ICC)":
+Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.34.31933 для x64
+(C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+
+cl: командная строка warning D9002: пропуск неизвестного параметра "--version"
+cl: командная строка error D8003: отсутствие исходного имени файла
+Checking whether the ASM compiler is IntelLLVM using "--version" did not match "(Intel[^
+]+oneAPI)":
+Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.34.31933 для x64
+(C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+
+cl: командная строка warning D9002: пропуск неизвестного параметра "--version"
+cl: командная строка error D8003: отсутствие исходного имени файла
+Checking whether the ASM compiler is SunPro using "-V" did not match "Sun C":
+Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.34.31933 для x64
+(C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+
+cl: командная строка error D8004: для "/V" требуется аргумент
+Checking whether the ASM compiler is XL using "-qversion" did not match "XL C":
+Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.34.31933 для x64
+(C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+
+cl: командная строка warning D9002: пропуск неизвестного параметра "-qversion"
+cl: командная строка error D8003: отсутствие исходного имени файла
+Performing C SOURCE FILE Test HAVE_LD_VERSION_SCRIPT failed with the following output:
+Change Dir: E:/c++/libpng-libpng16/build/m64/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_3f7f2.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.4.0+18d5aef85 for .NET Framework
+  Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.34.31933 для x64
+  (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAVE_LD_VERSION_SCRIPT /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3f7f2.dir\Debug\\" /Fd"cmTC_3f7f2.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue  "-Wl,--version-script='E:/c++/libpng-libpng16/build/m64/conftest.map'" "E:\c++\libpng-libpng16\build\m64\CMakeFiles\CMakeTmp\src.c"
+cl : командная строка  error D8021: недопустимый числовой аргумент "/Wl,--version-script='E:/c++/libpng-libpng16/build/m64/conftest.map'" [E:\c++\libpng-libpng16\build\m64\CMakeFiles\CMakeTmp\cmTC_3f7f2.vcxproj]
+
+
+Source file was:
+void sym(void) {}
+void sym2(void) {}
+int main(void) {return 0;}
+
+Performing C SOURCE FILE Test HAVE_SOLARIS_LD_VERSION_SCRIPT failed with the following output:
+Change Dir: E:/c++/libpng-libpng16/build/m64/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_b98ff.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.4.0+18d5aef85 for .NET Framework
+  Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.34.31933 для x64
+  (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAVE_SOLARIS_LD_VERSION_SCRIPT /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b98ff.dir\Debug\\" /Fd"cmTC_b98ff.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue  -Wl,-M -Wl,E:/c++/libpng-libpng16/build/m64/conftest.map "E:\c++\libpng-libpng16\build\m64\CMakeFiles\CMakeTmp\src.c"
+cl : командная строка  error D8021: недопустимый числовой аргумент "/Wl,-M" [E:\c++\libpng-libpng16\build\m64\CMakeFiles\CMakeTmp\cmTC_b98ff.vcxproj]
+
+
+Source file was:
+void sym(void) {}
+void sym2(void) {}
+int main(void) {return 0;}
+

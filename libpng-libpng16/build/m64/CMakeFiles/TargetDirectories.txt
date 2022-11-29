@@ -1,0 +1,14 @@
+E:/c++/libpng-libpng16/build/m64/CMakeFiles/genfiles.dir
+E:/c++/libpng-libpng16/build/m64/CMakeFiles/png.dir
+E:/c++/libpng-libpng16/build/m64/CMakeFiles/png_static.dir
+E:/c++/libpng-libpng16/build/m64/CMakeFiles/pngtest.dir
+E:/c++/libpng-libpng16/build/m64/CMakeFiles/pngvalid.dir
+E:/c++/libpng-libpng16/build/m64/CMakeFiles/pngstest.dir
+E:/c++/libpng-libpng16/build/m64/CMakeFiles/pngunknown.dir
+E:/c++/libpng-libpng16/build/m64/CMakeFiles/pngimage.dir
+E:/c++/libpng-libpng16/build/m64/CMakeFiles/pngfix.dir
+E:/c++/libpng-libpng16/build/m64/CMakeFiles/png-fix-itxt.dir
+E:/c++/libpng-libpng16/build/m64/CMakeFiles/RUN_TESTS.dir
+E:/c++/libpng-libpng16/build/m64/CMakeFiles/INSTALL.dir
+E:/c++/libpng-libpng16/build/m64/CMakeFiles/ALL_BUILD.dir
+E:/c++/libpng-libpng16/build/m64/CMakeFiles/ZERO_CHECK.dir

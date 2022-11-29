@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>E:\c++\libpng-libpng16\build\m64\x64\Release\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>E:\c++\libpng-libpng16\build\m64\x64\Release\genfiles</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>E:\c++\libpng-libpng16\build\m64\Release\libpng16.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>E:\c++\libpng-libpng16\build\m64\Release\png-fix-itxt.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>E:\c++\libpng-libpng16\build\m64\Release\pngfix.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>E:\c++\libpng-libpng16\build\m64\Release\pngimage.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>E:\c++\libpng-libpng16\build\m64\Release\pngstest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>E:\c++\libpng-libpng16\build\m64\Release\pngtest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>E:\c++\libpng-libpng16\build\m64\Release\pngunknown.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>E:\c++\libpng-libpng16\build\m64\Release\pngvalid.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>E:\c++\libpng-libpng16\build\m64\x64\Release\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
